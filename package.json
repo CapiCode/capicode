@@ -1,0 +1,19 @@
+{
+  "name": "profil",
+  "version": "1.0.0",
+  "description": "* 🌐 Portfolio  : [capicode.github.io](https://www.linkedin.com/in/giovanni-charles-edouard-a15337179/) \r * 🤵 LinkedIn   : [capicode](https://www.linkedin.com/in/giovanni-charles-edouard-a15337179/) \r * 📧 E-mail     : devcapicode@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapiCode/capicode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CapiCode/capicode/issues"
+  },
+  "homepage": "https://github.com/CapiCode/capicode#readme"
+}
