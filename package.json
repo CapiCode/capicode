@@ -1,7 +1,7 @@
 {
   "name": "profil",
   "version": "1.0.0",
-  "description": "* 🌐 Portfolio  : [capicode.github.io](https://www.linkedin.com/in/giovanni-charles-edouard-a15337179/) \r * 🤵 LinkedIn   : [capicode](https://www.linkedin.com/in/giovanni-charles-edouard-a15337179/) \r * 📧 E-mail     : devcapicode@gmail.com",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
