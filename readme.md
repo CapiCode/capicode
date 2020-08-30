@@ -21,4 +21,4 @@
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CapiCode&title_color=dbdada&icon_color=dbdada&text_color=3BD98F&&card_width=350&theme=radical&)](https://github.com/CapiCode)
-[![CapiCode's github stats](https://github-readme-stats.vercel.app/api?username=CapiCode&title_color=dbdada&icon_color=dbdada&text_color=3BD98F&show_icons=true&theme=radical&line_height=25)](https://github.com/CapiCode)
+[![CapiCode's github stats](https://github-readme-stats.vercel.app/api?username=CapiCode&title_color=dbdada&icon_color=dbdada&text_color=3BD98F&show_icons=true&theme=radical&line_height=27)](https://github.com/CapiCode)
