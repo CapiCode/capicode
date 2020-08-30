@@ -9,8 +9,6 @@
 
 ### Les technologies que j'utilise en ce moment :
 
-![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
