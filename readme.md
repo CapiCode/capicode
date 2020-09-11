@@ -1,4 +1,4 @@
-## **Salut, je suis CapiCode.**
+## **Salut 👋**
 
 ### Étudiant autodidacte passionné par l'univers du web ✨
 ### Toujours prêt à découvrir de nouvelles technologies 💡
